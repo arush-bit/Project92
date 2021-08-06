@@ -1,0 +1,38 @@
+body{
+    background-color:paleturquoise;
+     text-align: center;
+}
+
+.player1_login
+{
+    background-color: white;
+    width: 500px;
+    height: 250px;
+    border-radius: 10%;
+}
+
+input
+{
+    width: 300px;
+    
+    
+}
+
+#player
+{
+    margin-top: 100px;
+}
+
+.heading{
+    color: black;
+}
+#login_button
+{
+    margin-top: 50px;
+}
+
+button{
+    font-size: 20px;
+    border-radius: 5px;
+    width: 250px;
+}
